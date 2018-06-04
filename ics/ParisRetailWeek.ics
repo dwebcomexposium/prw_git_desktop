@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170505T133359Z
+DESCRIPTION:LE RENDEZ-VOUS INCONTOURNABLE DES ACTEURS DU RETAIL ET DE L’E
+	-RETAIL\n\nParis Retail Week offre aux professionnels du commerce une visi
+	on globale des enjeux de leur secteur en 3 jours intenses de business\, ne
+	tworking et conférences. \nIl s’agit du plus grand événement françai
+	s qui présente les solutions\, services et produits aux professionnels du
+	 secteur à la recherche de prestataires innovants en matière de :\n\n*	I
+	T For Commerce \n*	Solutions de Paiement \n*	Marketing\, Data et Relations
+	 Client \n*	Logistique\, e-Logistique \n*	Digitalisation du point de vente
+	 \n*	Agences Conseils\n\nCette troisième édition confortera les synergie
+	s du commerce off- et on-line. \nElle offrira une vision optimale des enje
+	ux du commerce de demain et portera un point de vue éclairé sur les atte
+	ntes d’un consommateur mature et connecté pour les enseignes\, marques 
+	et e-marchands.\n\n\nTHE EUROPEAN GLOBAL EVENT FOR RETAIL PROFESSIONALS\n\
+	nParis Retail Week 2017 will give professionals from the retail sector a g
+	lobal vision of the challenges facing their sector during 3 intense days o
+	f business\, networking and presentations. The biggest event of its kind i
+	n France\, it will provide solutions\, services and products for professio
+	nals from the sector who are looking for innovative service providers in t
+	he following areas:\n*	IT for Retailing\n*	Payment Solutions\n*	Marketing\
+	, Data and Customer Relations\n*	Logistics\, e-Logistics\n*	Point of sale 
+	digitisation\n*	Consultancy Businesses\nThis third event will reinforce th
+	e synergies between offline and online retailing.\nIt will\, therefore\, p
+	resent a complete overview of future challenges for the retail sector and 
+	will provide an informed perspective on the expectations which the mature 
+	and connected customer will have of chains\, brands and e-merchants.\n\n
+DTEND;TZID="Romance Standard Time":20170921T170000
+DTSTAMP:20170505T133226Z
+DTSTART;TZID="Romance Standard Time":20170919T093000
+LAST-MODIFIED:20170505T133359Z
+LOCATION:Paris expo Porte de Versailles - Pav. 7.3
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Paris Retail Week
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C0838B78B4C5D201000000000000000
+	010000000EE2B1EB1DD9A1A458F19F3CFBAE41AAE
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="f
+	r"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">LE RENDEZ-VOUS INCONTOURNAB
+	LE DES ACTEURS DU RETAIL ET DE L’E-RETAIL</FONT></SPAN><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Cal
+	ibri">Paris Retail Week offre aux professionnels du commerce une vision gl
+	obale des enjeux de leur secteur en 3 jours intenses de business\, network
+	ing et conférences.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="fr"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><S
+	PAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">Il s’agit du p
+	lus grand événement français qui présente les solutions\, services et 
+	produits aux professionnels du secteur à la recherche de prestataires inn
+	ovants en matière de :</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN>
+	<SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">-</FONT></SPAN
+	><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE=
+	"Calibri"></FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPA
+	N LANG="fr"> <FONT FACE="Calibri">IT For Commerce</FONT></SPAN><SPAN LANG=
+	"fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> </SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG
+	="fr"><FONT FACE="Calibri">-</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LAN
+	G="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"></FONT></SPAN><SPAN LAN
+	G="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> <FONT FACE="Calibri"
+	>Solutions de Paiement</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"
+	></SPAN><SPAN LANG="fr"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN>
+	<SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">
+	-</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="f
+	r"> <FONT FACE="Calibri">Marketing\, Data et Relations Client</FONT></SPAN
+	><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> </SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="
+	fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPA
+	N><SPAN LANG="fr"><FONT FACE="Calibri">-</FONT></SPAN><SPAN LANG="fr"></SP
+	AN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> <FONT FACE="Calibri">Logistique
+	\, e-Logistique</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN
+	><SPAN LANG="fr"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN L
+	ANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr">
+	</SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">-</FONT
+	></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> <FO
+	NT FACE="Calibri">Digitalisation du point de vente</FONT></SPAN><SPAN LANG
+	="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> </SPAN></P>\n\n<P DIR
+	=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LAN
+	G="fr"><FONT FACE="Calibri">-</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LA
+	NG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"></FONT></SPAN><SPAN LA
+	NG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"> <FONT FACE="Calibri
+	">Agences Conseils</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></S
+	PAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN
+	 LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">Cette
+	 troisième édition confortera les synergies du commerce off- et on-line.
+	</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr
+	"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN
+	><SPAN LANG="fr"><FONT FACE="Calibri">Elle offrira une vision optimale des
+	 enjeux du commerce de demain et portera un point de vue éclairé sur les
+	 attentes d’un</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPA
+	N><SPAN LANG="fr"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="fr"></SPAN>
+	<SPAN LANG="fr"></SPAN><SPAN LANG="fr"> <FONT FACE="Calibri">consommateur 
+	mature et connecté pour les enseignes\, marques et e-marchands.</FONT></S
+	PAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><
+	/P>\n\n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></S
+	PAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE="Calibr
+	i">THE EUROPEAN GLOBAL EVENT FOR RETAIL PROFESSIONALS</FONT></SPAN></I><SP
+	AN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LA
+	NG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN L
+	ANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"
+	><FONT FACE="Calibri">Paris Retail Week 2017 will give professionals from 
+	the retail sector a global vision of the challenges facing their sector du
+	ring 3 intense days of business\, networking and presentations. The bigge
+	st event of its kind in France\, it will provide solutions\, services and 
+	products for professionals from the sector who are looking for innovative 
+	service providers in the following areas:</FONT></SPAN></I><SPAN LANG="fr"
+	></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"><
+	/SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I>
+	</I></SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE=
+	"Calibri">-</FONT></SPAN></I><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"
+	><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"> <FONT 
+	FACE="Calibri">IT for Retailing</FONT></SPAN></I><SPAN LANG="fr"></SPAN><S
+	PAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN
+	><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE="Calibri">
+	-</FONT></SPAN></I><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></
+	SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"> <FONT FACE="Cali
+	bri">Payment Solutions</FONT></SPAN></I><SPAN LANG="fr"></SPAN><SPAN LANG=
+	"fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DI
+	R=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><SPAN LA
+	NG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE="Calibri">-</FONT><
+	/SPAN></I><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><SPA
+	N LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"> <FONT FACE="Calibri">Mark
+	eting\, Data and Customer Relations</FONT></SPAN></I><SPAN LANG="fr"></SPA
+	N><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN>
+	</P>\n\n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></
+	SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE="Calib
+	ri">-</FONT></SPAN></I><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></
+	I></SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"> <FONT FACE="
+	Calibri">Logistics\, e-Logistics</FONT></SPAN></I><SPAN LANG="fr"></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPA
+	N><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE="Calibri"
+	>-</FONT></SPAN></I><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I><
+	/SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"> <FONT FACE="Cal
+	ibri">Point of sale digitisation</FONT></SPAN></I><SPAN LANG="fr"></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPA
+	N><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE="Calibri"
+	>-</FONT></SPAN></I><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I><
+	/SPAN><SPAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"> <FONT FACE="Cal
+	ibri">Consultancy Businesses</FONT></SPAN></I><SPAN LANG="fr"></SPAN><SPAN
+	 LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\
+	n<P DIR=LTR><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><S
+	PAN LANG="fr"><I></I></SPAN><I><SPAN LANG="en-us"><FONT FACE="Calibri">Thi
+	s third event will reinforce the synergies between offline and online ret
+	ailing.</FONT></SPAN></I><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SP
+	AN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="fr"><I></I></SPAN><SPAN LANG="fr"><I></I></SPAN><SPAN LANG="fr"><I></I>
+	</SPAN><I><SPAN LANG="en-us"><FONT FACE="Calibri">It will\, therefore\, pr
+	esent a complete overview of future challenges for the retail sector and w
+	ill provide an informed perspective on the expectations which the mature a
+	nd connected customer will have of chains\, brands and e-merchants.</FONT>
+	</SPAN></I><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
