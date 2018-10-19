@@ -72,8 +72,6 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Gotham', sans-serif !important;  }
 .global-wrapper { border: 10px solid #f9eb43; border-bottom: 0; min-height: 100%; position: relative; padding-top: 215px; overflow: hidden; }
 .global-wrapper:after { content: ''; width: 100%; height: 10px; background-color: #f9eb43; position: fixed; left: 0; bottom: 0; z-index: 31; }
 
-body:not(.page-loaded):before { content: ''; position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 9999; background: #fff url(images/loading.gif) no-repeat 50% 50%;  border: 10px solid #f9eb43; }
-body:not(.page-loaded) .global-wrapper { z-index: 1; }
 
 [class^='btn'] { font-family: 'Gotham', sans-serif; }
 
