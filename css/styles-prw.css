@@ -1985,8 +1985,8 @@ a.lien1:focus { border-color: #00887f; background: #00887f!important; color: #ff
 .socials li a:hover { opacity: .8; }
 
 @media (max-width: 767px) {
-    .socials ul { margin: 0 -25px; }
-    .socials li { padding: 0 25px; }
+    .socials ul { margin: 0 -20px; }
+    .socials li { padding: 0 20px; }
 }
 
 /* ------------------------------------------------------------ *\
